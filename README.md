@@ -9,4 +9,4 @@ Used to get a better understanding of HTML and CSS as well as how elements are p
 
 Project led by The Odin Project.
 
-Live version of the project can be viewed here:https://christot20.github.io/Google-Home-Page/
+Live version of the project can be viewed here: https://christot20.github.io/Google-Home-Page/
