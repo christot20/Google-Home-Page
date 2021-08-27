@@ -115,12 +115,15 @@ footer{
 .botleft:hover, .botright:hover{
     text-decoration: underline;
 }
-#footer{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: inline-block;
-    vertical-align: middle;
-    margin-right: 10em;
-    margin-top: .4em;
+@media screen and (max-width: 700px) {
+    footer{
+        height: 7.5em;
+    }
+} 
+@media screen and (max-width: 700px) {
+    #footer li { 
+        overflow: hidden;
+        width: 20%;
+    }
+
 }
