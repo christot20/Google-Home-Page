@@ -4,5 +4,6 @@ Used to get a better understanding of HTML and CSS as well as how elements are p
 1. HTML Semantic Tags and Proper Structure
 2. CSS Flexbox and other principles
 3. Responsive Design
+
 Project led by The Odin Project.
 Live version of the project can be viewed here:
