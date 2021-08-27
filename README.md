@@ -4,7 +4,7 @@ Created a clone of the Google home page by deconstructing and rebuilding the pag
 Used to get a better understanding of HTML and CSS as well as how elements are placed and styled.
 
 1. HTML Semantic Tags and Proper Structure
-2. CSS Flexbox and other principles
+2. CSS Flexbox, media queries, and other principles
 3. Responsive Design
 
 Project led by The Odin Project.
