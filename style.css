@@ -1,0 +1,127 @@
+li button a{
+    text-decoration: none;
+    color: white;
+}
+ul {
+    display: inline;
+}
+li {
+    display: block;
+    float: right;
+    padding: 8px;
+}
+.float-left{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .9em;
+    margin-top: .5em;
+    margin-left: .5em;
+}
+#apps, #SignIn{
+    border-radius: 13px;
+    padding: 4px;
+}
+#apps:hover, #Signin:hover {
+    background-color: rgb(230, 227, 227);
+}
+#Gmail, #Images{
+    margin: .6em .45em 0 .45em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .8em;
+    color: rgb(71, 71, 71);
+}
+#apps{
+    height: 1.5em;
+    width: auto;    
+}
+
+#SignIn{
+    height: 2.5em;
+    width: 5em;
+    color: white;
+    background-color: rgb(40, 101, 172);
+    border: none;
+    border-radius: 3px;
+    margin-top: -.1em;
+}
+#Gmail:hover, #Images:hover, .float-left:hover{
+    text-decoration: underline;
+}
+#divlogo{
+    text-align: center;
+}
+#logo {
+    display: block;
+    margin : 0 auto;
+    margin-top: 3em;
+    height: 17em;
+    width: 26em;
+}
+input{
+    border-radius: 24px;
+    border: 1px;
+    border-style: solid;
+    border-color:rgb(230, 227, 227);
+    width: 35%;
+    height: 3.5em;
+    margin-top: 1em;
+    display: block;
+    margin : 0 auto;
+    background-image: url(Photos/outline_keyboard_voice_black_24dp.png), url(Photos/outline_search_black_24dp.png);
+    background-position: right, left;
+    background-repeat: no-repeat, no-repeat;
+    padding: 0 25px 0 25px;
+}
+#otherbutt{
+    justify-content: center;
+    display: flex;
+    margin-top: 1em;
+}
+#Search{
+    border: none;
+    Height: 30px;
+    width: 150px;
+    margin-right: 1em;
+}
+#Lucky{
+    border: none;
+    Height: 30px;
+    width: 150px;
+}
+
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 3.2em;
+  background-color: rgb(243, 243, 243);
+  color: rgb(102, 101, 101);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: .9em;
+}
+.botleft{
+    float: left;
+    padding: 14px;
+    margin-left: 1em;
+    margin-right:-1em;
+}
+.botright{
+    padding: 14px;
+    margin-left: -1em;
+    margin-right:1em;
+}
+#leaf{
+     height: .9em;
+     width: .9em;
+}
+#footer{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10em;
+    margin-top: .4em;
+}
